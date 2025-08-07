@@ -1,4 +1,4 @@
-## Hi there 👋## Hello! I'am Gustavo Rodrigues, Developer and Ethical Hacker!
+## Hello! I'am Gustavo Rodrigues!!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
 
@@ -14,8 +14,6 @@
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
- 
-   ##
  
 <div> 
   <a href="https://instagram.com/paulocolodedeus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
